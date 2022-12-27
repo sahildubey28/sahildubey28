@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working as an Intern at Persistent Systems.<br>I'm interested in web dev.<br>I'm also an enthusiast of ML  
+💻I'm currently working as an Intern at Persistent Systems.<br>🧑🏻‍💻I'm interested in web dev.<br>🎓I currently hold a 8.23 CGPA from RGPV University.
+![MachineGIF](https://user-images.githubusercontent.com/83882002/209672865-ddfcba89-51fd-48cd-b1b4-1acf8bb404c7.gif)
+I'm also an enthusiast of ML  
 
 
 ## 🌐 Socials:
